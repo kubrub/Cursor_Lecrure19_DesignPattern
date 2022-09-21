@@ -1,0 +1,4 @@
+[INFO ] 2022-09-21 18:35:45.858 [main] PaypalStrategy - 50 paid using Paypal.
+[INFO ] 2022-09-21 18:35:45.863 [main] CreditCardStrategy - 50 paid with credit/debit card
+[INFO ] 2022-09-21 18:36:55.399 [main] Main - Factory Samsung Config - [Phone model - galaxy s9, screen diagonal - 5,6, main camera - 22 MP, phone memory - 126]
+[INFO ] 2022-09-21 18:36:55.403 [main] Main - Factory IPhone Config - [Phone model - 13 Pro Max, screen diagonal - 5,5, main camera - 23 MP, phone memory - 256]
